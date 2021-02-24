@@ -7,6 +7,8 @@
 - 🚀 I’m currently learning ML.
 
 ## Github Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wargosh)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
 <br>
