@@ -20,4 +20,18 @@ Here are some ideas to get you started:
     <!--<a href="https://www.youtube.com/channel/UC-ULxMm3-0_5lHCTGdfM5gA/featured"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>-->
 </p>
 
+---
+
+**Github Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wargosh)](https://github.com/anuraghazra/github-readme-stats">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+
+</p>
+
+---
+
 ⭐ From [Wargosh](https://github.com/Wargosh)
