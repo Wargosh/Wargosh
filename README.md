@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on a simple multiplayer game with Unity.
 - 💻 The languages I work with are: C#, Nodejs, Javascript, MongoDB.
 
-## **Github Stats:**
+## Github Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
 <br>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Wargosh&hide=stars&show_icons=true&theme=buefy&line_height=32">
 </p>
 
----
+## Contact:
 
 <p align="center">
     <a href="https://twitter.com/Wargosh3"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
