@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 **Github Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
-</p>
-<p align="center">
+<br>
+<!--</p>
+<p align="center">-->
   <img src="https://github-readme-stats.vercel.app/api?username=Wargosh&hide=stars&show_icons=true&theme=buefy&line_height=32">
 </p>
 
