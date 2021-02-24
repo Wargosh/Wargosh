@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I'm currently working on a simple multiplayer game with Unity, Nodejs, Socket.IO and Mongodb.
 
 ---
 
