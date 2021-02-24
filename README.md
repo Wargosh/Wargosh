@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on a simple multiplayer game with Unity.
 - 💻 The languages I work with are: C#, Nodejs, Javascript, MongoDB.
+- 🚀 I’m currently learning ML.
 
 ## Github Stats:
 <p align="center">
