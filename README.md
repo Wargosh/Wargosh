@@ -10,8 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&theme=buefy">
 <br>
 <!--</p>
 <p align="center">-->
