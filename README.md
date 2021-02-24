@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Wargosh)](https://github.com/anuraghazra/github-readme-stats">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Wargosh&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&count_private=true&theme=dracula">
 
 </p>
 
