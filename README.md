@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on a simple multiplayer game with Unity.
 - 💻 The languages I work with are: C#, Nodejs, Javascript, MongoDB.
----
 
-**Github Stats:**
+## **Github Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
 <br>
