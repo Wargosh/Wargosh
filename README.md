@@ -7,7 +7,7 @@
 - 🚀 I’m currently learning ML.
 
 ## Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Wargosh&show_icons=true&theme=buefy&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Wargosh&show_icons=true&theme=buefy&count_private=true&hide=issues">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&show_icons=true&layout=compact&theme=buefy">
