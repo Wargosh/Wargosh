@@ -6,6 +6,23 @@
 - 💻 The languages I work with are: C#, Nodejs, Javascript, MongoDB.
 - 🚀 I’m currently learning ML.
 
+```js
+const Wargosh = {
+   code: [Javascript, CSharp, Java, PHP, Python],
+   technologies: {
+      backEnd: {
+         js: [Node, Express, SocketIO],
+         python: [Flask]
+      },
+      gameDev: {
+         tools: [Unity],
+         Focus: [Android, Windows, Web, MacOS, IOS]
+      },
+      databases: [MySQL, MongoDB]
+   }
+};
+```
+
 ## Github Stats:
 
 
