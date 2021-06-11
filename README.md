@@ -10,14 +10,8 @@
 const Wargosh = {
    code: [Javascript, CSharp, Java, PHP, Python],
    technologies: {
-      backEnd: {
-         js: [Node, Express, SocketIO],
-         python: [Flask]
-      },
-      gameDev: {
-         tools: [Unity],
-         Focus: [Android, Windows, Web, MacOS, IOS]
-      },
+      backEnd: [Nodejs, Express, SocketIO, Flask],
+      gameDev: { tools: Unity },
       databases: [MySQL, MongoDB]
    }
 };
