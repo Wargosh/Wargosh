@@ -3,8 +3,8 @@
 ## Personal Skills:
 
 - 🔭 I'm currently working on a simple multiplayer game with Unity.
-- 💻 The languages I work with are: C#, Nodejs, Javascript, MongoDB.
-- 🚀 I’m currently learning ML.
+- 💻 The technologies I work with are: Angular, .NET Framework, Nodejs, Javascript, MongoDB & Unity.
+- 🚀 I am currently learning shader mechanics and augmented reality (AR) for Unity.
 
 ```js
 const Wargosh = {
