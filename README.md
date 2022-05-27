@@ -43,8 +43,6 @@ Self-taught programmer passionate about the world of game development, I work we
 
 <a href="http://www.github.com/Wargosh"><img src="https://github-readme-stats.vercel.app/api?username=Wargosh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Wargosh's GitHub stats" /></a>
 
-<a href="http://www.github.com/Wargosh"><img src="https://activity-graph.herokuapp.com/graph?username=Wargosh&bg_color=ffffff&color=0891b2&line=000000&point=0891b2&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Wargosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wargosh&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
