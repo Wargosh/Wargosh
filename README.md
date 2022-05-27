@@ -4,7 +4,7 @@ Hi 👋 My name is Erick Jara
 Front/Back & Game Developer
 ---------------------------
 
-Self-taught programmer passionate about the world of game development, I work well in frontend/backend technologies and making mobile mini-games in Unity. I am currently learning to make augmented reality applications in Unity and real-time requests using Socket.io.
+Self-taught programmer passionate about the world of game development, I work well in frontend/backend technologies and making mobile mini-games in Unity.
 
 * 🌍  I am Ecuadorian
 * 🖥️  See my portfolio [here](http://wargosh.github.io/Portfolio/)
