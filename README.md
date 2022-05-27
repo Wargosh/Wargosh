@@ -8,6 +8,7 @@ Self-taught programmer passionate about the world of game development, I work we
 
 * 🌍  I am Ecuadorian
 * 🖥️  See my portfolio [here](http://wargosh.github.io/Portfolio/)
+* ✉️  You can contact me at [erickjoel1702@gmail.com](mailto:erickjoel1702@gmail.com)
 
 ### Skills
 
