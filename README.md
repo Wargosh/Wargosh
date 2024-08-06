@@ -9,7 +9,6 @@ Self-taught programmer passionate about the world of game development, I work we
 * 🌍  I am Ecuadorian
 * 🖥️  See my portfolio [here](http://wargosh.github.io/Portfolio/)
 * ✉️  You can contact me at [erick_joel1702@hotmail.com](mailto:erick_joel1702@hotmail.com)
-* 🧠  I'm currently learning to make augmented reality applications in Unity and real-time requests using Socket.io.
 
 ### Skills
 
