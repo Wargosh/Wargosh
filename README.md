@@ -4,7 +4,7 @@ Hi 👋 My name is Erick Jara
 Front/Back & Game Developer
 ---------------------------
 
-Self-taught programmer passionate about the world of game development, I work well in frontend/backend technologies and making mobile mini-games in Unity.
+Self-taught programmer passionate about the world of game development, I work well in frontend/backend technologies and making mobile mini-games in Unity and Godot.
 
 * 🌍  I am Ecuadorian
 * 🖥️  See my portfolio [here](http://wargosh.github.io/Portfolio/)
